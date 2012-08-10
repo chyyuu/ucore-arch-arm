@@ -81,4 +81,3 @@ $ make
 6 run ucore for goldfish
 $ emulator-arm -avd tester -kernel obj/kernel/kernel-arm.elf -qemu -serial stdio
 
-
